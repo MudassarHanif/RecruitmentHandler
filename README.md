@@ -1,12 +1,12 @@
 # RecruitmentHandlerApplication
 Build and Run Application
 	
-	1. Unzip file recruitmenthandler.rar. It is source code of a maven project.
+	
 	1. clean/Build project with maven.
 	2. Package application into an executable jar(run command mvn clean package). Spring Boot Application class is located at com\hr\recruitmenthandler\RecruitmenthandlerApplication.java
 		This should generate jar file named "recruitmenthandler-0.0.1-SNAPSHOT.jar" in target folder under project direcotry.
-	2. Open commandline and point to the directory where .jar file is placed.
-	3. Run standalone jar with following command. 
+	3. Open commandline and point to the directory where .jar file is placed.
+	4. Run standalone jar with following command. 
 		java -jar .\recruitmenthandler-0.0.1-SNAPSHOT.jar
 
 
